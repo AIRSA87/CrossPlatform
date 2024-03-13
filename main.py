@@ -1,9 +1,5 @@
-print("Hello World!")
+print("Hello to you all!")
 
-print("It's a beautiful day!")
+print("It looks like it's going to be a good day.")
 
-print("It's nice to meet")
-
-print("It's nice to see you")
-
-print("How have you been?")
+print("Can't wait to see you later in class.")
